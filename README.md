@@ -28,6 +28,7 @@ you can edit **payloads.json** file which will be created when you open and clos
 ### adding custom error checks
 once a payload injected in url, software will looks for errors in new website source, you can also customize those errors too.
 what you have to do is easily edit **payloadserror.json** file which will be created when you open and close software once.
+you can also use regexes as error , with **REIT|your regex here** format
 
 ### multy vulnerability check
 in old version, you were not able to choose more than 1 vulnerabilites to check, but in v2, you can do this easily.
