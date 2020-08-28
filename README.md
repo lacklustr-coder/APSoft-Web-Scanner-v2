@@ -39,6 +39,10 @@ in old version, you were not able to choose more than 1 saerchengines to saerch 
 ### memory management
 we`ve added memory management to avoid lack of memory in your system
 
+### dork generator
+you can generate dorks and save them very fast with your custom configurations and keywords.
+valid configuration format should contain **{DORK}** that will be replaced with each keyword in dork generation process
+
 ## updates list (all)
 - new threading system based on microsoft task
 - using linq technology
