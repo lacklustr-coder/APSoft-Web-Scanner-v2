@@ -1,5 +1,5 @@
 # APSoft Webscanner Version 2
-new version of ![APSoft Webscanner Version 1](https://github.com/APTeamOfficial/APSoft-WebScanner)
+new version of [APSoft Webscanner Version 1](https://github.com/APTeamOfficial/APSoft-WebScanner)
 
 ## What can i do with this ?
 with this software, you will be able to search your dorks in **supported search engines** and scan grabbed urls to find their vulnerabilities.
