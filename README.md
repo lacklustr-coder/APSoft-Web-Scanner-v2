@@ -4,8 +4,8 @@ new version of [APSoft Webscanner Version 1](https://github.com/APTeamOfficial/A
 
 ## Software pictures 
 ![setting](setting.png)
-![dorksetting][dorktools.png]
-![statistics][stat.png]
+![dorksetting](dorktools.png)
+![statistics](stat.png)
 ## What can i do with this ?
 with this software, you will be able to search your dorks in **supported search engines** and scan grabbed urls to find their vulnerabilities.
 in addition , you will be able to generate dorks, scan urls and saerch dorks separately when ever you want 
