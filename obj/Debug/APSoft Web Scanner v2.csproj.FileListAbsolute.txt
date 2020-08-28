@@ -1,0 +1,15 @@
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\APSoft Web Scanner v2.exe.config
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\APSoft Web Scanner v2.exe
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\APSoft Web Scanner v2.pdb
+C:\Users\noone\source\repos\APSoft Web Scanner v2\obj\Debug\APSoft_Web_Scanner_v2.Properties.Resources.resources
+C:\Users\noone\source\repos\APSoft Web Scanner v2\obj\Debug\APSoft Web Scanner v2.csproj.GenerateResource.cache
+C:\Users\noone\source\repos\APSoft Web Scanner v2\obj\Debug\APSoft Web Scanner v2.csproj.CoreCompileInputs.cache
+C:\Users\noone\source\repos\APSoft Web Scanner v2\obj\Debug\APSoft Web Scanner v2.exe
+C:\Users\noone\source\repos\APSoft Web Scanner v2\obj\Debug\APSoft Web Scanner v2.pdb
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noone\source\repos\APSoft Web Scanner v2\obj\Debug\APSoft_Web_Scanner_v2.MainForm.resources
+C:\Users\noone\source\repos\APSoft Web Scanner v2\obj\Debug\APSoft Web Scanner v2.csproj.CopyComplete
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\payloads.json
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\Leaf.xNet.dll
+C:\Users\noone\source\repos\APSoft Web Scanner v2\bin\Debug\Leaf.xNet.xml
